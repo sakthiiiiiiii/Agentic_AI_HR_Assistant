@@ -1,4 +1,4 @@
-# PROITBRIDGE HR Assistant
+# HR Assistant
 
 An agentic AI HR assistant built with LangGraph, Retrieval-Augmented Generation (RAG), and tool calling to answer HR policy questions, validate leave and reimbursement requests, calculate allowances, and explain decisions using employee handbook context.
 
